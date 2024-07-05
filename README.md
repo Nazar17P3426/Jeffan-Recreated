@@ -1,2 +1,2 @@
-# Jeffan_Recreated.exe
-I recreated Jeffan.exe in C++.
+# Jeffan Recreated
+C++ GDI trojan by yedb0y33k
